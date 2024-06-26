@@ -54,3 +54,6 @@ We developed and implemented a user-friendly and visually appealing e-commerce w
 With SQL Developer, created a database like Airbnb’s business workflow using the data-dimensional modeling approach. It helps capture business data and can handle operations smoothly. From the data, we can infer targeted customers and the footfall of the customers.
 ## Data visualization Project:
 Accomplished data analyst with expertise in leveraging IMDb data to analyze and visualize trends in Netflix's vast content library. Proficient in using datasets to uncover insights on content popularity, directorial influence, and cross-platform performance. Demonstrated ability to draw meaningful conclusions and inform strategic content decisions. Strong skills in data visualization, trend analysis.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanreddy1&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanreddy1&theme=tokyonight)
