@@ -1,5 +1,6 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanreddy1&label=Profile%20views&color=0e75b6&style=flat" alt="ROHANREDDYBANDI" /> </p>
 # DATA ENGINEER
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rohanreddy1&label=Profile%20views&color=0e75b6&style=flat" alt="ROHANREDDYBANDI" /> </p>
 
 ### <img align="center" src="assets/mortarboard.png" alt="ROHANREDDYBANDI" height="50" width="60" /> Education
 Master of Science in Business Analytics and Information Systems (CGPA-3.94) 
