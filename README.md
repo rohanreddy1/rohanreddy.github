@@ -48,7 +48,7 @@ pharmacy claims data.
 
 
 ### <img align="center" src="assets/project-management.png" alt="ROHANREDDYBANDI" height="50" width="60" /> ProjecMade 
-##Real time Stock Market Analysis:
+## Real time Stock Market Analysis:
 Designed and implemented a real-time data processing pipeline using Python, Apache Kafka, and AWS services. Developed a Python-based stock market simulation app to generate data from CSV files, which was sent to Kafka on Amazon EC2 using Boto3. The data was then consumed into Amazon S3, cataloged by AWS Glue, and queried with Amazon Athena for analysis.
 ## Easy Pharmacy Store Website: 
 We developed and implemented a user-friendly and visually appealing e-commerce website for a pharmacy store, providing seamless online shopping experience for customers. We used technologies to develop the website HTML, CSS, JavaScript, Flask.
