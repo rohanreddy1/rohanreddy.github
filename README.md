@@ -24,22 +24,19 @@ TensorFlow, PyTorch, scikit-learn, PySpark, NLTK, LLM’s
 Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prometheus, PowerShell, Linux, UI/UX, Bash, Pub/Sub, Jupyter Notebooks, PyCharm.</strong></p>
 
 ## <img align="center" src="assets/career.png" alt="ROHANREDDYBANDI" height="50" width="60" /> Work Experience
-## Accenture | Hyderabad, India | May 2019- July 2022
 
-## Data Analyst
-•	Led data analysis initiatives employing advanced analytics techniques, extracting actionable insights to drive informed decision-making.
-•	Applied machine learning algorithms to automate and enhance data analysis processes, contributing to increased efficiency and accuracy in
-decision support.
-•	Collaborated closely with stakeholders, gathering and meticulously documenting detailed technical specifications to ensure alignment with
-project goals.
-•	Carried out RESTful APIs and adopted a microservices architecture, fostering scalable and resilient application design.
-•	Executed comprehensive testing procedures, including unit testing, integration testing, and performance testing, ensuring the robustness and
-reliability of .NET applications.
-•	Applied Git version control and established CI/CD pipelines, promoting efficient code management and deployment practices.
-•	Integral member of agile software development teams, following Scrum methodologies to deliver high-quality software within specified
-timelines.
+### Mphasis| New York  | August 2023- May 2024
+## Position: Data Engineer
 
+Processed and analyzed 50 petabytes of diverse streaming data using Apache Spark, Apache Flink, and Apache Kafka.
+Handled 100 terabytes of data transformation into Amazon Redshift and Google BigQuery, ensuring integrity via Talend and Apache NiFi while optimizing query performance for various DBMS.
 
+Employed Apache Hadoop, Apache Hive, and cloud-based services (AWS, GCP, Azure) for improved accessibility, reduced query latency by 40%, and managed over 1,000 data workflows securely.
+Implemented robust data quality checks, security measures, CI/CD workflows, and orchestration strategies, resulting in a 30% increase in scalability and real-time system visibility.
+Derived actionable insights using Python, R, and machine learning, contributing to a 15% increase in data-driven decision-making while leveraging Databricks for a 25% speed increase in big data processing.
+Collaborated cross-functionally, designing APIs, leading A/B testing, and contributing significantly to machine learning/statistical model development, enhancing operational efficiency and customer satisfaction.
+
+### Accenture | Hyderabad, India | May 2019- July 2022
 ## Data Engineer
 •	Spearheaded the design, implementation, and enhancement of ETL pipelines utilizing Informatica PowerCenter, with a specific focus on
 pharmacy claims data.
