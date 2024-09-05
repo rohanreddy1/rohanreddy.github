@@ -26,7 +26,7 @@ Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prom
 ## <img align="center" src="assets/career.png" alt="ROHANREDDYBANDI" height="50" width="60" /> Work Experience
 
 ### University Of South Florida| TAMPA  | August 2023 - May 2024
-## Position: Graduate Teaching Assistant
+## Graduate Teaching Assistant
 
 •	Assisted in delivering lectures and tutorials for the Data Visualization course, focusing on techniques and tools such as Tableau, Power BI, and Python.
 •	Provided one-on-one support and guidance to students during office hours, helping them understand complex concepts and complete assignments.
