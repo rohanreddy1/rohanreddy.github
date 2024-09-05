@@ -25,16 +25,15 @@ Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prom
 
 ## <img align="center" src="assets/career.png" alt="ROHANREDDYBANDI" height="50" width="60" /> Work Experience
 
-### Mphasis| New York  | August 2023- May 2024
-## Position: Data Engineer
+### University Of South Florida| TAMPA  | August 2023 - May 2024
+## Position: Graduate Teaching Assistant
 
-Processed and analyzed 50 petabytes of diverse streaming data using Apache Spark, Apache Flink, and Apache Kafka.
-Handled 100 terabytes of data transformation into Amazon Redshift and Google BigQuery, ensuring integrity via Talend and Apache NiFi while optimizing query performance for various DBMS.
-
-Employed Apache Hadoop, Apache Hive, and cloud-based services (AWS, GCP, Azure) for improved accessibility, reduced query latency by 40%, and managed over 1,000 data workflows securely.
-Implemented robust data quality checks, security measures, CI/CD workflows, and orchestration strategies, resulting in a 30% increase in scalability and real-time system visibility.
-Derived actionable insights using Python, R, and machine learning, contributing to a 15% increase in data-driven decision-making while leveraging Databricks for a 25% speed increase in big data processing.
-Collaborated cross-functionally, designing APIs, leading A/B testing, and contributing significantly to machine learning/statistical model development, enhancing operational efficiency and customer satisfaction.
+•	Assisted in delivering lectures and tutorials for the Data Visualization course, focusing on techniques and tools such as Tableau, Power BI, and Python.
+•	Provided one-on-one support and guidance to students during office hours, helping them understand complex concepts and complete assignments.
+•	Evaluated and graded assignments, projects, and exams, ensuring fair and consistent assessment of students' work.
+•	Collaborated with faculty to improve course content and structure, integrating feedback from students and other teaching assistants.
+•	Facilitated group discussions and project-based learning to encourage peer-to-peer collaboration and real-world application of data visualization techniques.
+•	Organized and led review sessions before exams to help students solidify their understanding and prepare effectively.
 
 ### Accenture | Hyderabad, India | May 2019- July 2022
 ## Data Engineer
