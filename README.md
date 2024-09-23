@@ -25,15 +25,14 @@ Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prom
 
 ## <img align="center" src="assets/career.png" alt="ROHANREDDYBANDI" height="50" width="60" /> Work Experience
 
-### University Of South Florida| TAMPA  | August 2023 - May 2024
-## Graduate Teaching Assistant
-
-•	Assisted in delivering lectures and tutorials for the Data Visualization course, focusing on techniques and tools such as Tableau, Power BI, and Python.
-•	Provided one-on-one support and guidance to students during office hours, helping them understand complex concepts and complete assignments.
-•	Evaluated and graded assignments, projects, and exams, ensuring fair and consistent assessment of students' work.
-•	Collaborated with faculty to improve course content and structure, integrating feedback from students and other teaching assistants.
-•	Facilitated group discussions and project-based learning to encourage peer-to-peer collaboration and real-world application of data visualization techniques.
-•	Organized and led review sessions before exams to help students solidify their understanding and prepare effectively.
+### Truist| USA | March 2023 - April 2024
+## Data Engineer
+•	Led a team implementing data transformations, increasing reporting efficiency by 40% using Hadoop, MapReduce, Hive, and Spark.
+•	Architected scalable big data systems, reducing system downtime and boosting data processing speed by 25% through Kafka, Flume, and Presto.
+•	Instituted best practices, enhancing team productivity by 20% and fostering collaboration across technical and non-technical teams. 
+•	Engineered ETL processes, cutting data processing time by 50% and improving system performance with Flink, Click House, and Meta store.
+•	Designed schema models and optimized SQL queries, improving query execution time by 40% and data retrieval speed by 20% in multi-terabyte environments.
+•	Implemented data privacy measures, reducing security incidents by 60% and ensuring compliance in data systems.
 
 ### Accenture | Hyderabad, India | May 2019- July 2022
 ## Data Engineer
