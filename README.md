@@ -56,7 +56,7 @@ Accomplished data analyst with expertise in leveraging IMDb data to analyze and 
 
 <p>&#x2022; 📝 Checkout my -> <a href="https://public.tableau.com/app/profile/rohan.reddy4614/vizzes"><img align="center" src="assets/visualisation.png" alt="ROHANREDDYBANDI" height="30" width="40" /> <strong>Data Visualisations/ Tableau</strong></a></p>
 
-<p>&#x2022; 📫 How to reach me -> <a href="mailto:rohanreddy262@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/56149197/218254506-dd38dc25-4dc9-4f24-be93-d05a7be9c3d6.png" alt="ROHANREDDYBANDI" height="30" width="40" /> <strong>rohanreddy262@gmail.com</strong></a></p>
+<p>&#x2022; 📫 How to reach me -> <a href="mailto:brohanreddy24@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/56149197/218254506-dd38dc25-4dc9-4f24-be93-d05a7be9c3d6.png" alt="ROHANREDDYBANDI" height="30" width="40" /> <strong>brohanreddy24@gmail.com</strong></a></p>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanreddy1&show_icons=true&theme=tokyonight)
