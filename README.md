@@ -25,7 +25,7 @@ Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prom
 
 ## <img align="center" src="assets/career.png" alt="ROHANREDDYBANDI" height="50" width="60" /> Work Experience
 
-### Truist| USA | January  2024 - Present
+### Tryittech| USA | January  2024 - Present
 ## Data Engineer
 •	Led a team implementing data transformations, increasing reporting efficiency by 40% using Hadoop, MapReduce, Hive, and Spark.
 •	Architected scalable big data systems, reducing system downtime and boosting data processing speed by 25% through Kafka, Flume, and Presto.
