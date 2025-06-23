@@ -1,4 +1,4 @@
-# DATA ANALYST
+# DATA Engineer
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rohanreddy1&label=Profile%20views&color=0e75b6&style=flat" alt="ROHANREDDYBANDI" /> </p>
 
@@ -26,17 +26,19 @@ Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prom
 ## <img align="center" src="assets/career.png" alt="ROHANREDDYBANDI" height="50" width="60" /> Work Experience
 
 ### CVS Health| USA | January  2024 - Present
-## Data Analyst II
-•	Collect and preprocess healthcare data from 10+ diverse sources, ensuring 99% data accuracy, completeness, and consistency for analysis and decision-making.
-•	Develop and maintain robust data pipelines, processing 500+ GB of data daily, integrating and transforming data from multiple systems, ensuring high performance and reliability.
-•	Design and create interactive dashboards and visualizations using Power BI and Tableau, delivering 30+ reports that empower data-driven decisions and enhance stakeholder insights.
-•	Write and optimize complex SQL queries, extracting insights from relational databases (e.g., MySQL, PostgreSQL), improving data retrieval efficiency by 20% and ensuring 99.9% query reliability.
-•	Perform statistical analyses to evaluate the effectiveness of healthcare programs, identifying trends across 100+ datasets, and recommending actionable improvements to increase program success by 15%.
-•	Ensure strict adherence to data governance policies and regulatory compliance (including HIPAA), ensuring 100% compliance with privacy and security standards in all data processes.
-•	Automate data workflows using Python and VBA, reducing manual effort by 30% and increasing operational efficiency through automation of 40+ workflows.
-•	Collaborate with cross-functional teams to understand business needs, translating them into technical requirements, and delivering 10+ tailored analytics solutions that drive process improvements.
-•	Monitor and enhance the performance of data systems and pipelines, resolving 20+ issues per month and implementing improvements that boost system functionality by 25%.
-•	Develop predictive models and analytics frameworks, forecasting healthcare trends and optimizing resource allocation to improve resource efficiency by 10%.
+## Data Engineer
+•	Developed multiple scalable ETL pipelines using Databricks, Kubeflow, and Snowflake, seamlessly integrating with Azure Cloud, Azure Data Lake Storage (ADLS), AKS, and SFTP to/from JDA servers.
+•	Designed and implemented an end-to-end pipeline using Snowpark, leveraging Snowflake warehouse compute exclusively to run and score ML models, eliminating the need for tools like       Airflow and Databricks, and reducing compute costs by 20%.
+•	Built reusable Argo workflow templates and developed node-specific ETL jobs in Kubeflow, optimizing resource allocation and cutting infrastructure costs by 50%.
+•	Contributed to a $10 million business impact, including $500K in value from enhanced precision tracking enabled by Kubeflow over Databricks.
+•	Improved workload efficiency in Azure Kubernetes Service (AKS) through advanced workflow automation and strategic resource provisioning.
+•	Reduced unnecessary node computations by optimizing model input features, enhancing overall ML pipeline performance.
+•	Integrated Snowflake stored procedures and vectorized UDFs for complex data transformations, improving analytical capabilities.
+•	Engineered robust ETL pipelines in Databricks to migrate data from Oracle to Snowflake, addressing schema mismatches and preserving data integrity.
+•	Automated and orchestrated workflows using Apache Airflow and fine-tuned processing with PySpark, improving runtime performance.
+•	Diagnosed and resolved critical issues in data workflows, ensuring accurate event processing and stabilizing key business operations.
+•	Improved data pipeline runtimes by 20% through Apache Spark performance tuning and efficient debugging practices.
+
 
 
 ### Accenture | Hyderabad, India | August 2020 - July 2022
