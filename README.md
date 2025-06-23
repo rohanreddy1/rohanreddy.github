@@ -54,7 +54,7 @@ Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prom
 •	Supported cloud migration from legacy systems to AWS and Azure, minimizing downtime to 5 hours, ensuring seamless transition for global operations.
 •	Created technical documentation and delivered training on ETL, data pipelines, and cloud tools to 15+ junior engineers, promoting knowledge sharing and team development.
 
-### Tech Mahindra | Hyderabad, India | August 2020 - July 2022
+### Tech Mahindra | Hyderabad, India | May 2019 - July 2022
 
 ##  Associate Data Analyst 
 
